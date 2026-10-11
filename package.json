@@ -1,0 +1,11 @@
+{
+  "name": "giorgi-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static portfolio site with a serverless contact form. No runtime dependencies.",
+  "scripts": {
+    "test": "node --test",
+    "dev": "npx netlify-cli dev"
+  },
+  "engines": { "node": ">=18" }
+}
